@@ -1,3 +1,3 @@
-version=1.8.33
-built_at=2026-05-13T07:03:14.043Z
+version=1.8.34
+built_at=2026-05-13T07:36:38.078Z
 exes=AmonOT_DX.exe,AmonOT_GL.exe
