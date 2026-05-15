@@ -1,0 +1,25 @@
+14/05 01:58:55 - =========================================================================================================
+14/05 01:58:55 - == application started at May 14 2026 01:58:55
+14/05 01:58:55 - == Amon Client Version: 1.8.37
+14/05 01:58:55 - == operating system: Windows
+14/05 01:58:55 - == processor: AMD Ryzen 9 5900XT 16-Core Processor           
+14/05 01:58:55 - == total ram: 47.91 GB
+14/05 01:58:55 - == GPU: ANGLE (NVIDIA, NVIDIA GeForce RTX 5060 Ti Direct3D11 vs_5_0 ps_5_0, D3D11-32.0.15.9636)
+14/05 01:58:55 - == Graphics: OpenGL ES 3.0.0 (ANGLE 2.1.5414 git hash: aa63ea230e0c)
+14/05 01:58:55 - Amon Client 1.8.37 rev 1.8.37 (1.8.37) built on May 14 2026 for arch x64
+14/05 01:58:55 - [Profiler] Module loaded. Use profilerStart() to begin Lua profiling, enableCppProfiler() for C++ profiling
+14/05 01:58:57 - WARNING: Failed to load '/sounds/1511/' (Sounds): Unknown Random Alert '/sounds/1511/catalog-sound.json': no error
+14/05 01:58:57 - ======================================
+14/05 01:58:57 - Loading minimap: /data/minimap.otmm
+14/05 01:58:57 - Minimap loaded successfully: /data/minimap.otmm
+14/05 01:58:58 - [Miscellaneous] Modulo de estatisticas carregado
+14/05 01:58:58 - [EffectConfig] Registered 33 effect opacity exceptions
+14/05 01:58:58 - [ResourceProfiler] Module disabled (TEST_SERVER ~= true).
+14/05 01:58:58 - [DungeonSelector] init() called
+14/05 01:58:58 - [DungeonSelector] registered handler for dungeon.open_selector
+14/05 01:58:58 - [MutedIndicator] loaded
+14/05 01:59:07 - WARNING: [ModalGate] blank-screen watchdog -> restoring EnterGame (legacy fallback)
+14/05 01:59:08 - Splash screen hidden
+14/05 01:59:35 - [ClientVersion] terminal version error: Unknown client version. Please update your client.
+14/05 01:59:42 - Exiting application..
+14/05 01:59:43 - [Miscellaneous] Modulo de estatisticas descarregado
