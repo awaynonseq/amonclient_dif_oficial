@@ -23,3 +23,30 @@
 14/05 01:59:35 - [ClientVersion] terminal version error: Unknown client version. Please update your client.
 14/05 01:59:42 - Exiting application..
 14/05 01:59:43 - [Miscellaneous] Modulo de estatisticas descarregado
+16/05 00:04:10 - =========================================================================================================
+16/05 00:04:10 - == application started at May 16 2026 00:04:10
+16/05 00:04:10 - == Amon Client Version: 1.8.40
+16/05 00:04:10 - == operating system: Windows
+16/05 00:04:10 - == processor: AMD Ryzen 9 5900XT 16-Core Processor           
+16/05 00:04:10 - == total ram: 47.91 GB
+16/05 00:04:10 - == GPU: ANGLE (NVIDIA, NVIDIA GeForce RTX 5060 Ti Direct3D11 vs_5_0 ps_5_0, D3D11-32.0.15.9636)
+16/05 00:04:10 - == Graphics: OpenGL ES 3.0.0 (ANGLE 2.1.5414 git hash: aa63ea230e0c)
+16/05 00:04:10 - Amon Client 1.8.40 rev 1.8.40 (1.8.40) built on May 16 2026 for arch x64
+16/05 00:04:10 - [Profiler] Module loaded. Use profilerStart() to begin Lua profiling, enableCppProfiler() for C++ profiling
+16/05 00:04:11 - WARNING: Failed to load '/sounds/1511/' (Sounds): Unknown Random Alert '/sounds/1511/catalog-sound.json': no error
+16/05 00:04:12 - ======================================
+16/05 00:04:12 - Loading minimap: /data/minimap.otmm
+16/05 00:04:12 - Minimap loaded successfully: /data/minimap.otmm
+16/05 00:04:13 - [Miscellaneous] Modulo de estatisticas carregado
+16/05 00:04:13 - [EffectConfig] Registered 33 effect opacity exceptions
+16/05 00:04:13 - [ResourceProfiler] Module disabled (TEST_SERVER ~= true).
+16/05 00:04:13 - [DungeonSelector] init() called
+16/05 00:04:13 - [DungeonSelector] registered handler for dungeon.open_selector
+16/05 00:04:13 - [MutedIndicator] loaded
+16/05 00:04:23 - WARNING: [ModalGate] blank-screen watchdog -> restoring EnterGame (legacy fallback)
+16/05 00:04:23 - Splash screen hidden
+16/05 00:04:40 - Loading minimap: /data/minimap_baiak.otmm
+16/05 00:04:40 - Minimap loaded successfully: /data/minimap_baiak.otmm
+16/05 00:04:41 - [ClientVersion] terminal version error: Unknown client version. Please update your client.
+16/05 00:05:01 - Exiting application..
+16/05 00:05:02 - [Miscellaneous] Modulo de estatisticas descarregado
