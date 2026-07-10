@@ -1,4 +1,4 @@
-version=1.15.3
-built_at=2026-07-09T03:59:21.557Z
+version=1.16.0
+built_at=2026-07-10T00:54:27.139Z
 exes=AmonOT.exe
 channel=official
